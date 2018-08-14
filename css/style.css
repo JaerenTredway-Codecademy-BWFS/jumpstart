@@ -1,0 +1,40 @@
+/* UNIVERSAL STYLES: */
+html {
+    box-sizing: border-box;
+    font: 18px Helvetica, sans-serif;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+
+}
+    
+/* HEADER: */
+
+
+
+/* NAV BAR: */
+
+
+
+/* JUMBOTRON: */
+
+
+
+/* MAIN: */
+
+
+
+/* FOOTER: */
+
+
+
+/* MEDIA QUERIES: */
+@media screen and (max-width:#px) {
+    selector {
+        property: value;
+    }
+}
