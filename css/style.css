@@ -9,16 +9,17 @@ html {
 }
 
 body {
-
+    font: 18px "Open Sans", sans-serif;
 }
-    
-/* HEADER: */
-
-
 
 /* NAV BAR: */
+.navbar-default .navbar-nav > .active > a {
+    font-size: 1.1rem;
+}
 
+.navbar-default .navbar-nav > .active > a:hover {
 
+}
 
 /* JUMBOTRON: */
 
