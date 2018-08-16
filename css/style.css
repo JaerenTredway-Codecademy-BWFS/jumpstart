@@ -21,8 +21,41 @@ body {
 
 }
 
-/* JUMBOTRON: */
+.navbar-nav li {
+}
 
+.nav {
+    display: flex;
+
+}
+
+/* JUMBOTRON: */
+.jumbotron {
+}
+
+.carousel-caption h1 {
+    margin-top: 11.85rem;
+}
+
+.carousel-caption > h1 {
+    font-family: Monoton, "Comic Sans";
+    font-size: 7.1rem;
+    color: #FFFFFF;
+    text-shadow: -1px -1px 0px #000000;
+}
+
+.carousel-caption > p {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.jumbotron .btn-primary {
+    margin-bottom: 11.85rem;
+}
+
+.jumbotron .btn-primary:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
 
 
 /* MAIN: */
